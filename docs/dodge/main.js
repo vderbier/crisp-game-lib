@@ -25,7 +25,7 @@ ll l
 
 options = {
   viewSize: {x: 200, y: 50},
-  seed: 7,
+  seed: 7
 };
 
 /** @type {{x: number, speed: number, width: number}[]} */
